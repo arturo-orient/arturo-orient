@@ -1,6 +1,6 @@
 # ¡Hola! Soy Arturo Orient Romero 👋
 
-Desarrollador Web Full-Stack con una fuerte especialización en **Ciberseguridad**[cite: 3, 9]. [cite_start]Mi enfoque se centra en construir aplicaciones modernas, escalables y, sobre todo, seguras desde su arquitectura inicial.
+Desarrollador Web Full-Stack con una fuerte especialización en **Ciberseguridad**. Mi enfoque se centra en construir aplicaciones modernas, escalables y, sobre todo, seguras desde su arquitectura inicial.
 
 ---
 
